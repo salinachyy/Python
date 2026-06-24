@@ -7,5 +7,11 @@ print(type(a))
 b='''"+-*%'@"'''
 print(b)
 
+list=['a','b','c',3]
+tuple('a','b')    #immutable doesnt change eg google map location
+my_set = {"a", "b"}
+print(my_set)
+
+
 
 
